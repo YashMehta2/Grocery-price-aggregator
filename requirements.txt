@@ -4,3 +4,4 @@ pydantic
 httpx
 playwright
 python-dotenv
+google-search-results
